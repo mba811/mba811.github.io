@@ -1,0 +1,11 @@
+# Site settings
+title: Z · H | Tsong khapa
+email: ztd811@gmail.com
+description: Z · H - Home Page of 洛桑扎巴
+url: "http://www.72moc.com/"
+baseurl: 
+
+# Build settings
+markdown: kramdown
+highlighter: Pygments
+permalink: pretty
